@@ -8,7 +8,7 @@ The directories are backuped by creating uncompressed and password protected arc
 
 ## Installation
 
-First of all, 7-zip needs to be included in PATH, so the command `7z` becomes available. Type in `7z` to check this.
+First of all, 7-zip needs to be included in PATH, so the command `7z` becomes available. Type in `7z` to check if this is the case.
 
 Installation of this package is done via npm.
 
