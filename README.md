@@ -1,4 +1,4 @@
-This package is an equivalent of the (Python-Backup-Tool)[https://github.com/smcgit/Python-Backup] and has been created for learning purposes.
+This package is an equivalent of the [Python-Backup-Tool](https://github.com/smcgit/Python-Backup) and has been created for learning purposes.
 
 # Backup Tool in Node.js
 
