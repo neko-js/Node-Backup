@@ -27,7 +27,7 @@ npm uninstall node-backup
 Following command becomes available through this package:
 
 ```javascript
-backup(paths_input, dir_output pw)
+backup(paths_input, dir_output, pw)
 ```
 
 * `paths_input` is a list of directories or files to backup.
