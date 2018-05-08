@@ -45,7 +45,7 @@ paths_input = [
 	'../folder2',
 	'C:/folder/file1.zip'
 	];
-dir_output = 'D:/Backup'
+dir_output = 'D:/Backup';
 
 backup(paths_input, dir_output);
 
